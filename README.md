@@ -8,12 +8,12 @@ Users contains usernames that have used a skin for the tag.
 Just because a user is in a tag doesn't mean they are still wearing a skin with that tag.
 
 ## Stats
-Users with duplicates: 975873
+Users with duplicates: 1006225
 
-Users without duplicates:  777524
+Users without duplicates:  801671
 
-Duplicated users in lists: 198349
+Duplicated users in lists: 204554
 
-Total skin url paths: 14472
+Total skin url paths: 14796
 
-tags_list=['among-us', 'bikini', 'creeper', 'eboy', 'egirl', 'fox', 'furry', 'glasses', 'headphones', 'kuromi', 'maid', 'onesie', 'pokemon', 'pride', 'smile', 'stockings', 'technoblade', 'wolf']
+tags_list=['among-us', 'bikini', 'creeper', 'eboy', 'egirl', 'fox', 'furry', 'glasses', 'headphones', 'kuromi', 'maid', 'onesie', 'pokemon', 'pride', 'smile', 'stockings', 'technoblade', 'wolf', 'xxxtentacion']
