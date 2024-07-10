@@ -10,15 +10,15 @@ Just because a user is in a tag doesn't mean they are still wearing a skin with 
 
 ## Stats
 
-Users with duplicates: 1006225
+Users with duplicates: 1160330
 
-Users without duplicates:  801671
+Users without duplicates:  910002
 
-Duplicated users in lists: 204554
+Duplicated users in lists: 250328
 
-Total skin url paths: 14796
+Total skin url paths: 16151
 
-tags_list=['among-us', 'bikini', 'creeper', 'eboy', 'egirl', 'fox', 'furry', 'glasses', 'headphones', 'kuromi', 'maid', 'onesie', 'pokemon', 'pride', 'smile', 'stockings', 'technoblade', 'wolf', 'xxxtentacion']
+tags_list=['among-us', 'bikini', 'creeper', 'eboy', 'egirl', 'fox', 'furry', 'glasses', 'headphones', 'kuromi', 'maid', 'onesie', 'pokemon', 'pride', 'rainbow', 'smile', 'stockings', 'technoblade', 'wolf', 'xxxtentacion']
 
 ## User Tag Count
 
@@ -38,9 +38,10 @@ tags_list=['among-us', 'bikini', 'creeper', 'eboy', 'egirl', 'fox', 'furry', 'gl
 | onesie | 752705 | 14009 |
 | pokemon | 837131 | 16079 |
 | pride | 851370 | 16470 |
-| smile | 877970 | 16780 |
-| stockings | 915827 | 17058 |
-| technoblade | 951969 | 17454 |
-| wolf | 975873 | 17841 |
-| xxxtentacion | 1006225 | 18166 |
+| rainbow | 1005475 | 18540 |
+| smile | 1032075 | 18850 |
+| stockings | 1069932 | 19128 |
+| technoblade | 1106074 | 19524 |
+| wolf | 1129978 | 19911 |
+| xxxtentacion | 1160330 | 20236 |
 
