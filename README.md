@@ -8,6 +8,8 @@ Users contains usernames that have used a skin for the tag.
 
 Just because a user is in a tag doesn't mean they are still wearing a skin with that tag.
 
+Every tag has a limit of 2070 skins.
+
 ## Stats
 
 Users with duplicates: 1160330
